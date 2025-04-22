@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there 👋, welcome to Zhanchao's works at the MUSA program 
 
+
+
+**Class work**:
+- MUSA 5000 Spatial Statistics (with team)
+- MUSA 5080 Public Policy Analytics
+- will be followed
 
 
 **Here are some ideas to get you started:**
