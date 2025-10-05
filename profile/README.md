@@ -7,6 +7,8 @@
 ## Class work:
 - MUSA 5000 Spatial Statistics (with Haoyu Zhu & Kavana Raju)
 - MUSA 5080 Public Policy Analytics
+- MUSA 6110: JavaScript Programming for Planners and Designers
+- MUSA 5500: Geospatial Data Science in Python
 
 
 More will come soon.
@@ -30,6 +32,10 @@ This hands-on course will cover a wide range of methods frequently used for anal
 
 Students will learn the assumptions and limitations of each method, and assignments will focus on the implementation, presentation, and interpretation of the analyses. Students will use R and GeoDa in this course.
 
+Class work summary: https://musa-zhanchao.github.io/MUSA5000_Showcase/
+
+**Related Work: Teaching Assistant, Fall 2025**
+
 ### MUSA 5080: Public Policy Analytics
 **Instructor: [Dr. Elizabeth Delmelle](https://www.design.upenn.edu/people/elizabeth-delmelle)**, Associate Professor, Director of MUSA, Weitzman School of Design, UPenn
 
@@ -37,8 +43,13 @@ This course teaches advanced spatial analysis and an introduction to data scienc
 
 The format of the class includes weekly lectures/in-class demos and labs. There are seven required assignments, including two projects. The class is conducted entirely in R. Having experience in R and the ‘tidyverse’ is helpful but not strictly required.
 
+Class work summary: https://musa-zhanchao.github.io/MUSA5080showcase/
+
+**Related Work: Lead Teaching Assistant, Github Assistant, and grader, Fall 2025**. <br>
+**Course Github Organization:** https://github.com/MUSA-5080-Fall-2025
+
 ### MUSA 6110: JavaScript Programming for Planners and Designers
-**Instructor: [Mjumbe Poe](https://www.design.upenn.edu/people/mjumbe-poe)**, Senior Lecturer, Weitzman School of Design, UPenn
+**Instructor: [Prof. Mjumbe Poe](https://www.design.upenn.edu/people/mjumbe-poe)**, Senior Lecturer, Weitzman School of Design, UPenn
 
 Dashboards, story maps, and other interfaces that enable the display, analysis, and generation of geospatial data are often the end product of data analysis processes. In this course, we'll focus on the interface and interaction aspects of creating these products. Students will learn to design and build interfaces to help users access the value promised by geospatial data, modeling, and analysis. We will cover the logic and syntax of the JavaScript programming language for use in data and map-oriented web applications. The "hands-on" uses of JavaScript in urban planning applications will be emphasized. Students will hone their skills through a series of complete application projects.
 
