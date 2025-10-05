@@ -1,4 +1,4 @@
-# Hi, Welcome to Zhanchao's work during the MUSA program at UPenn
+# Zhanchao's work during the MUSA program at UPenn
 
 ### Class work:
 - MUSA 5000 Spatial Statistics (with team)
