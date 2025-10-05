@@ -10,8 +10,13 @@
 - MUSA 6110: JavaScript Programming for Planners and Designers
 - MUSA 5500: Geospatial Data Science in Python
 
+## Research Work:
+Zhaochao also works as a graduate researcher and research assistant supervised by [**Dr. Erick Guerra**](https://www.design.upenn.edu/people/erick-guerra), Professor of Transportation Planning and Associate Dean for Research at the Weitzman School of Design.
 
-More will come soon.
+**Research Project**:
+- **Changes in Travel Behavior and Mode Share in Mexico City Over the Past Decade: A Comparative Analysis of Household Travel Surveys Using Data Mining**: [repo link](https://github.com/MUSA-Zhanchao/Mexico-City-survey-comp)
+- **How do household perceptions of the Bogotá Metro differ between Line 1 (elevated) and Line 2 (underground)? Using data mining and machine learning approaches.**: [repo link](https://github.com/MUSA-Zhanchao/explortary-metro/tree/main); [Secondary analysis](https://github.com/MUSA-Zhanchao/Bogota-Travel-Survey-Analysis)
+- **How Feeder Bus Changes Travel Behavior and Mode Share in Bogota Over the Past Two Decades: A Comparative Analysis of Household Travel Surveys Using Data Mining**: [repo link](https://github.com/MUSA-Zhanchao/Bogota-travel-survey-comp)
 
 ## [Master of Urban Spatial Analytics](https://www.design.upenn.edu/urban-spatial-analytics) Program Overview, University of Pennsylvania
 
@@ -62,3 +67,6 @@ This course will provide students with the knowledge and tools to turn data into
 3. Data Ingestion & Big Data: Students will learn how to collect new data through web scraping and APIs, as well as how to work effectively with the large datasets often encountered in real-world applications.
 4. Geospatial Data Science in the Wild: Armed with the necessary data science tools, students will be introduced to a range of advanced analytic and machine learning techniques using a number of innovative examples from modern researchers.
 5. From Exploration to Storytelling: The final module will teach students to present their analysis results using web-based formats to transform their insights into interactive stories.
+
+
+
