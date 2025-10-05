@@ -1,4 +1,4 @@
-## Hi there 👋, welcome to Zhanchao's works at the MUSA program
+# Hi there 👋, welcome to Zhanchao's works at the MUSA program
 
 ![ChatGPT Image Apr 22, 2025, 01_52_41 PM](https://github.com/user-attachments/assets/5fbd2ed5-3c51-481e-8e43-d583d9813cf3)
 
@@ -29,7 +29,7 @@ Zhaochao also works as a graduate researcher and research assistant supervised b
   
 *To safeguard ongoing research and maintain intellectual property integrity, we are unable to share work-in-progress project details on Observe. If you're a researcher interested in collaboration, please feel free to contact me at zhanchao@upenn.edu*
 
-## [Master of Urban Spatial Analytics](https://www.design.upenn.edu/urban-spatial-analytics) Program Overview, University of Pennsylvania
+## About [Master of Urban Spatial Analytics](https://www.design.upenn.edu/urban-spatial-analytics) (MUSA)
 
 The Master of Urban Spatial Analytics program is training a new generation of data scientists to tackle complex public policy problems. Using geo-spatial computing methods and open source software tools, our students and faculty seek to create positive change through data-driven decision-making. Responsible, domain-savvy data scientists can enable governments to understand what works and decide how to deploy limited resources to benefit the public. In the MUSA program, we aren’t training engineers; we are empowering social science students to use technology to solve problems that they find meaningful.
 
@@ -79,5 +79,18 @@ This course will provide students with the knowledge and tools to turn data into
 4. Geospatial Data Science in the Wild: Armed with the necessary data science tools, students will be introduced to a range of advanced analytic and machine learning techniques using a number of innovative examples from modern researchers.
 5. From Exploration to Storytelling: The final module will teach students to present their analysis results using web-based formats to transform their insights into interactive stories.
 
+## 🍿 Fun Facts & About Me
+
+Zhanchao Yang
+
+> **Transportation Research Assistant** <br>
+> **MUSA Teaching Assistant**<br>
+> *Master of City Planning & Master of Urban Spatial Analytics* <br>
+> Department of City and Regional Planning <br>
+> Weitzman School of Design <br>
+> University of Pennsylvania
+
+
+Feel free to visit my personal [GitHub account](https://github.com/zyang91)
 
 
