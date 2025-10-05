@@ -26,7 +26,7 @@ Zhaochao also works as a graduate researcher and research assistant supervised b
 - Agent-based modeling (Work in Progress)
 - GNN (Graph Neural Network) analysis for transit accessibility (Work in Progress)
 - Anchor Institution impact analysis (with research team, CO-PI)
-  
+
 *To safeguard ongoing research and maintain intellectual property integrity, we are unable to share work-in-progress project details on Observe. If you're a researcher interested in collaboration, please feel free to contact me at zhanchao@upenn.edu*
 
 ## About [Master of Urban Spatial Analytics](https://www.design.upenn.edu/urban-spatial-analytics) (MUSA)
@@ -92,5 +92,3 @@ Zhanchao Yang
 
 
 Feel free to visit my personal [GitHub account](https://github.com/zyang91)
-
-
