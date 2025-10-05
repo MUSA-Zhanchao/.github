@@ -11,12 +11,23 @@
 - MUSA 5500: Geospatial Data Science in Python
 
 ## Research Work:
-Zhaochao also works as a graduate researcher and research assistant supervised by [**Dr. Erick Guerra**](https://www.design.upenn.edu/people/erick-guerra), Professor of Transportation Planning and Associate Dean for Research at the Weitzman School of Design.
+Zhaochao also works as a graduate researcher and research assistant supervised by [**Dr. Erick Guerra**](https://www.design.upenn.edu/people/erick-guerra), Professor of Transportation Planning and Associate Dean for Research at the Weitzman School of Design. *(Only include work at UPenn)*
 
-**Research Project**:
+**Research Project (TA)**:
 - **Changes in Travel Behavior and Mode Share in Mexico City Over the Past Decade: A Comparative Analysis of Household Travel Surveys Using Data Mining**: [repo link](https://github.com/MUSA-Zhanchao/Mexico-City-survey-comp)
-- **How do household perceptions of the Bogotá Metro differ between Line 1 (elevated) and Line 2 (underground)? Using data mining and machine learning approaches.**: [repo link](https://github.com/MUSA-Zhanchao/explortary-metro/tree/main); [Secondary analysis](https://github.com/MUSA-Zhanchao/Bogota-Travel-Survey-Analysis)
+- **How do household perceptions of the Bogotá Metro differ between Line 1 (elevated) and Line 2 (underground)? Using data mining and machine learning approaches**: [repo link](https://github.com/MUSA-Zhanchao/explortary-metro/tree/main); [Secondary analysis](https://github.com/MUSA-Zhanchao/Bogota-Travel-Survey-Analysis)
 - **How Feeder Bus Changes Travel Behavior and Mode Share in Bogota Over the Past Two Decades: A Comparative Analysis of Household Travel Surveys Using Data Mining**: [repo link](https://github.com/MUSA-Zhanchao/Bogota-travel-survey-comp)
+- **Traffic fatality rate analysis across top 30 MSAs across the United States** [Source code link](https://github.com/MUSA-Zhanchao/FARS); [Rmd link](https://github.com/MUSA-Zhanchao/FARS_RMarkdown)
+- **The Effects of Curb Extensions on Traffic Collisions and Injuries** (Work under peer review, ACSP accepted for presentation)
+- **SEPTA service cut impacts** (Work in Progress)
+
+**Research Project (as PI, supervised by Faculty advisor)**:
+- WFH (Work in Progress)
+- Agent-based modeling (Work in Progress)
+- GNN (Graph Neural Network) analysis for transit accessibility (Work in Progress)
+- Anchor Institution impact analysis (with research team, CO-PI)
+  
+*To safeguard ongoing research and maintain intellectual property integrity, we are unable to share work-in-progress project details on Observe. If you're a researcher interested in collaboration, please feel free to contact me at zhanchao@upenn.edu*
 
 ## [Master of Urban Spatial Analytics](https://www.design.upenn.edu/urban-spatial-analytics) Program Overview, University of Pennsylvania
 
