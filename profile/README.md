@@ -1,46 +1,38 @@
-# Hi there 👋, welcome to Zhanchao's works at the MUSA program
+# Hi there 👋, welcome to Zhanchao's work in the MUSA program
 
 ![logo](musa-logo.png)
 
-*Credit: both the logo and graphics above is created by ChatGPT with the author's instruction*
+*Credit: both the logo and graphics above were created by ChatGPT with the author's instructions*
 
-## Class work:
+## Classwork:
 - MUSA 5000 Spatial Statistics (with Haoyu Zhu & Kavana Raju)
 - MUSA 5080 Public Policy Analytics
 - MUSA 6110: JavaScript Programming for Planners and Designers
 - MUSA 5500: Geospatial Data Science in Python
+- MUSA 8010: Musa/Smart Cities Practicum
+- MUSA 6950: AI for Urban Sustainability
 
 ## Research Work:
 Zhaochao also works as a graduate researcher and research assistant supervised by [**Dr. Erick Guerra**](https://www.design.upenn.edu/people/erick-guerra), Professor of Transportation Planning and Associate Dean for Research at the Weitzman School of Design. *(Only include work at UPenn)*
 
-**Research Project (TA)**:
-- **Changes in Travel Behavior and Mode Share in Mexico City Over the Past Decade: A Comparative Analysis of Household Travel Surveys Using Data Mining**: [repo link](https://github.com/MUSA-Zhanchao/Mexico-City-survey-comp)
-- **How do household perceptions of the Bogotá Metro differ between Line 1 (elevated) and Line 2 (underground)? Using data mining and machine learning approaches**: [repo link](https://github.com/MUSA-Zhanchao/explortary-metro/tree/main); [Secondary analysis](https://github.com/MUSA-Zhanchao/Bogota-Travel-Survey-Analysis)
-- **How Feeder Bus Changes Travel Behavior and Mode Share in Bogota Over the Past Two Decades: A Comparative Analysis of Household Travel Surveys Using Data Mining**: [repo link](https://github.com/MUSA-Zhanchao/Bogota-travel-survey-comp)
-- **Traffic fatality rate analysis across top 30 MSAs across the United States** [Source code link](https://github.com/MUSA-Zhanchao/FARS); [Rmd link](https://github.com/MUSA-Zhanchao/FARS_RMarkdown)
-- **The Effects of Curb Extensions on Traffic Collisions and Injuries** (Work under peer review, ACSP accepted for presentation)
-- **SEPTA service cut impacts** (Work in Progress)
+**Research Project (RA)**:
 
-**Research Project (as PI, supervised by Faculty advisor)**:
-- WFH (Work in Progress)
-- Agent-based modeling (Work in Progress)
-- GNN (Graph Neural Network) analysis for transit accessibility (Work in Progress)
-- Anchor Institution impact analysis (with research team, CO-PI)
+All of this section moved to my dedicated transportation research organization
 
 *To safeguard ongoing research and maintain intellectual property integrity, we are unable to share work-in-progress project details on Observe. If you're a researcher interested in collaboration, please feel free to contact me at zhanchao@upenn.edu*
 
 ## About [Master of Urban Spatial Analytics](https://www.design.upenn.edu/urban-spatial-analytics) (MUSA)
 
-The Master of Urban Spatial Analytics program is training a new generation of data scientists to tackle complex public policy problems. Using geo-spatial computing methods and open source software tools, our students and faculty seek to create positive change through data-driven decision-making. Responsible, domain-savvy data scientists can enable governments to understand what works and decide how to deploy limited resources to benefit the public. In the MUSA program, we aren’t training engineers; we are empowering social science students to use technology to solve problems that they find meaningful.
+The Master of Urban Spatial Analytics program is training a new generation of data scientists to tackle complex public policy problems. Using geo-spatial computing methods and open source software tools, our students and faculty seek to create positive change through data-driven decision-making. Responsible, domain-savvy data scientists can enable governments to understand what works and decide how to deploy limited resources to benefit the public. In the MUSA program, we aren’t training engineers; we empower social science students to use technology to solve problems they find meaningful.
 
 ## Course Overview
 
 ### MUSA 5000: Statistical and Data Mining Methods for Urban Data Analysis
 **Instructor: [Prof. Eugene Brusilovskiy](https://www.design.upenn.edu/people/eugene-brusilovskiy)**, Lecturer, Weitzman School of Design, UPenn
 
-This hands-on course will cover a wide range of methods frequently used for analyzing urban and spatial data. These methods are drawn from a variety of fields, including traditional statistics, spatial econometrics, and machine learning
+This hands-on course covers a wide range of methods commonly used to analyze urban and spatial data. These methods are drawn from a variety of fields, including traditional statistics, spatial econometrics, and machine learning
 1) Regression analysis (OLS, ridge/lasso, logistic, multinomial logit);
-2) Measures of spatial autocorrelation: (spatial lag, spatial error regression, and Geographically weighted regression (GWR)
+2) Measures of spatial autocorrelation: (spatial lag, spatial error regression, and geographically weighted regression (GWR)
 3) Spatial regression (spatial lag, spatial error, geographically weighted regression);
 4) Point pattern analysis;
 5) An introduction to clustering methods (k-means, hierarchical clustering, DBSCAN);
@@ -48,7 +40,7 @@ This hands-on course will cover a wide range of methods frequently used for anal
 
 Students will learn the assumptions and limitations of each method, and assignments will focus on the implementation, presentation, and interpretation of the analyses. Students will use R and GeoDa in this course.
 
-Class work summary: https://musa-zhanchao.github.io/MUSA5000_Showcase/
+Classwork summary: https://musa-zhanchao.github.io/MUSA5000_Showcase/
 
 **Related Work: Teaching Assistant, Fall 2025**
 
@@ -59,10 +51,10 @@ This course teaches advanced spatial analysis and an introduction to data scienc
 
 The format of the class includes weekly lectures/in-class demos and labs. There are seven required assignments, including two projects. The class is conducted entirely in R. Having experience in R and the ‘tidyverse’ is helpful but not strictly required.
 
-Class work summary: https://musa-zhanchao.github.io/MUSA5080showcase/
+Classwork summary: https://musa-zhanchao.github.io/MUSA5080showcase/
 
-**Related Work: Lead Teaching Assistant, Github Assistant, and grader, Fall 2025**. <br>
-**Course Github Organization:** https://github.com/MUSA-5080-Fall-2025
+**Related Work: Lead Teaching Assistant, GitHub Assistant, and grader, Fall 2025**. <br>
+**Course GitHub Organization:** https://github.com/MUSA-5080-Fall-2025
 
 ### MUSA 6110: JavaScript Programming for Planners and Designers
 **Instructor: [Prof. Mjumbe Poe](https://www.design.upenn.edu/people/mjumbe-poe)**, Senior Lecturer, Weitzman School of Design, UPenn
