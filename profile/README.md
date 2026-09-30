@@ -1,6 +1,6 @@
 # Hi there 👋, welcome to Zhanchao's works at the MUSA program
 
-![ChatGPT Image Apr 22, 2025, 01_52_41 PM](https://github.com/user-attachments/assets/5fbd2ed5-3c51-481e-8e43-d583d9813cf3)
+![logo](musa-logo.png)
 
 *Credit: both the logo and graphics above is created by ChatGPT with the author's instruction*
 
